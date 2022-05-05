@@ -1,3 +1,3 @@
-`undergrad in CS & linguistics @ UIUC.`
+`cs+ling @ UIUC.`
 
-`compling enjoyer.`
+`compling/NLP enjoyer.`
